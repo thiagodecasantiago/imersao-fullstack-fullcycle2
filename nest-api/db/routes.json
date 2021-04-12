@@ -1,0 +1,29 @@
+{
+  "routes": [
+    {
+      "title": "Cps->SP",
+      "startPosition": [-22.8923728, -47.2079832],
+      "endPosition": [-23.6821604, -46.8755022]
+    },
+    {
+      "title": "SP->RJ",
+      "startPosition": [-23.6821604, -46.8755022],
+      "endPosition": [-22.913885, -43.7261854]
+    },
+    {
+      "title": "RJ->BH",
+      "startPosition": [-22.913885, -43.7261854],
+      "endPosition": [-19.9026615, -44.104139]
+    },
+    {
+      "title": "BH->Bsb",
+      "startPosition": [-19.9026615, -44.104139],
+      "endPosition": [-15.7217175, -48.0774471]
+    },
+    {
+      "title": "Bsb->Cps",
+      "startPosition": [-15.7217175, -48.0774471],
+      "endPosition": [-22.8923728, -47.2079832]
+    }
+  ]
+}
